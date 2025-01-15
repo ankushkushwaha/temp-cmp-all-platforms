@@ -1,6 +1,7 @@
 package com.jetbrains.kmpapp
 
 import android.widget.Toast
+import com.solera.poc.MuseumApp
 
 actual open class ToastManager actual constructor() {
     actual fun showToast(message: String) {

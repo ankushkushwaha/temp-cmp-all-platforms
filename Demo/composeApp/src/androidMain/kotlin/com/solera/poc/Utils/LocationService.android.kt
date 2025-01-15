@@ -1,7 +1,7 @@
 package com.jetbrains.kmpapp.Utils
 
 import android.content.Context
-import com.jetbrains.kmpapp.MuseumApp.Companion.getContext
+import com.solera.poc.MuseumApp.Companion.getContext
 import kotlinx.coroutines.suspendCancellableCoroutine
 import kotlin.coroutines.resume
 import kotlin.coroutines.resumeWithException

@@ -1,4 +1,4 @@
-package com.jetbrains.kmpapp
+package com.solera.poc
 
 import android.app.Application
 import android.content.Context

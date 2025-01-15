@@ -7,6 +7,7 @@ import android.content.Context
 import android.os.Build
 import androidx.core.app.NotificationCompat
 import androidx.core.app.NotificationManagerCompat
+import com.solera.poc.MuseumApp
 import com.solera.poc.R
 
 actual open class NotificationManager actual constructor() {
