@@ -2,6 +2,7 @@ package com.solera.poc
 
 import androidx.compose.ui.ExperimentalComposeUiApi
 import androidx.compose.ui.window.ComposeViewport
+import com.jetbrains.kmpapp.App
 import kotlinx.browser.document
 
 @OptIn(ExperimentalComposeUiApi::class)

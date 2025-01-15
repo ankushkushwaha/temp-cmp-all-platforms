@@ -1,4 +1,4 @@
-package com.solera.poc
+package com.jetbrains.kmpapp
 
 import androidx.compose.ui.window.ComposeUIViewController
 
